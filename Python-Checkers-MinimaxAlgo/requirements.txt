@@ -1,0 +1,7 @@
+Requirements:
+
+- python 3
+  direct download: https://www.python.org/downloads/
+- numpy: run 'pip install numpy' in the terminal while in any directory
+- pygame: run 'pip install pygame' in the terminal while in any directory
+- download assets , checkers and minimax file for GitHub : 
