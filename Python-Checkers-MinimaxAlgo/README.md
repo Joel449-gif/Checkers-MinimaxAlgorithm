@@ -14,7 +14,7 @@ A python implementation of the checkers game with an AI opponent based on the mi
   direct download: https://www.python.org/downloads/
 - numpy: run 'pip install numpy' in the terminal while in any directory
 - pygame: run 'pip install pygame' in the terminal while in any directory
-- download assets , checkers and minimax file for GitHub :
+- download assets , checkers and minimax file for GitHub : https://github.com/Joel449-gif/Checkers_MinimaxAlgo
 
 **Running the game**
 1. Navigate to the root directory of the project in the terminal
